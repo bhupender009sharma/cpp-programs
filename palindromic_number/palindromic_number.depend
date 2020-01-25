@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564426109 source:d:\e\c++\programs\palindromic_number\main.cpp
+	<iostream>
+	<cmath>
+

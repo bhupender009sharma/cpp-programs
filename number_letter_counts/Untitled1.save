@@ -1,0 +1,49 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+  string s1=one;
+  string s2=two;
+  string s3=three;
+  string s4=four;
+  string s5=five;
+  string s6=six;
+  string s7=seven;
+  string s8=eight;
+  string s9=nine;
+  string s10=ten;
+
+  string s11=eleven;
+  string s12=twelve;
+  string s13=thirteen;
+  string s14=fourteen;
+  string s15=fifteen;
+  string s16=sixteen;
+  string s17=seventeen;
+  string s18=eighteen;
+  string s19=ninteen;
+
+  string s20=twenty;
+  string s30=thirty;
+  string s40=fourty;
+  string s50=fifty;
+  string s60=sixty;
+  string s70=seventy;
+  string s80=eighty;
+  string s90=ninty;
+  string s00=hundered;
+
+  string s000=thousand;
+
+int i,j,sum;
+string total;
+
+for(i=0;i<1000;i++){
+    
+}
+
+
+    return 0;
+}

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570641359 source:d:\e\c++\programs\set\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+
+1570641359 source:c:\e\c++\programs\set\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+

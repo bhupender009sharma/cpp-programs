@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570811227 source:d:\e\c++\programs\number_letter_counts\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564681815 source:d:\e\c++\programs\prime_number\main.cpp
+	<iostream>
+	<cmath>
+
